@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmath": "c",
+        "SECANTMETHODR.C": "cpp",
+        "GAUSSJORDONR.C": "cpp",
+        "RUNGEKUTTA.C": "cpp"
+    }
+}

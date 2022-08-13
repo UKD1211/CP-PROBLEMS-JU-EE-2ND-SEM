@@ -1,0 +1,10 @@
+ FILE *fp;
+    fp=fopen("leastsquare.txt","r");
+    fscanf(fp,"%d",&N);
+    double x[N], y[N];
+    for ( i = 0; i <N; i++)
+    {
+            fscanf(fp,"%lf",&x[i]);
+            fscanf(fp,"%lf",&y[i]);
+
+    }
